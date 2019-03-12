@@ -1,0 +1,27 @@
+input[type="text"],[type="number"],[type="date"]{
+    text-align: center;
+    width: 100%;
+}
+
+input[type="date"]{
+    border: none;
+    border: 1px solid rgba(0, 0, 0, 0.301);
+}
+label{
+    font-weight: bold;
+}
+
+.navi{
+    background: rgba(56, 56, 56, 0.678);
+    box-shadow: 0 0 10px black
+}
+
+.titulo{
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+}
+
+.ejr{
+    color: white;
+}
